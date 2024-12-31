@@ -31,7 +31,7 @@ export default function WarningModal({ onRestart, onCloseOrApprove }: SimpleModa
             onClick={onCloseOrApprove}
             className="px-6 py-2 bg-green-500 text-white rounded-md hover:bg-green-600 mr-2"
           >
-            Yes
+            Evet
           </button>
         </div>
       </div>

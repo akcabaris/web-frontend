@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "custom-yellow": "#fac763",
+        "custom-ticket": "#acacac",
+        "custom-light-gray": "#f7f7f7",
+        "custom-gray": "#d1d1d1",
+        "custom-gray-sec": "#c6c6c6",
+        "custom-text-color": "#4a4948",
+        "custom-booked-gray": "#e5e5e5",
       },
     },
   },
